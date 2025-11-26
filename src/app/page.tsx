@@ -115,7 +115,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SgGlSmvaVv2SYOkECykbr8Q49/uploaded-1764144330892-p5blkvee.jpg",
               imageAlt: "DuckBar guests celebrating"
             }
-          ]
+          ]}
         />
       </div>
       
@@ -158,7 +158,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SgGlSmvaVv2SYOkECykbr8Q49/uploaded-1764144335236-ly9kczsu.jpg",
               imageAlt: "Portrait of Sophia"
             }
-          ]
+          ]}
         />
       </div>
       
@@ -220,7 +220,7 @@ export default function LandingPage() {
                 { label: "Privacy Policy", href: "/privacy" }
               ]
             }
-          ]
+          ]}
         />
       </div>
     </ThemeProvider>
